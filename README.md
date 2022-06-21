@@ -100,6 +100,10 @@ public class DetectCollider : MonoBehaviour
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 ## Output:
 ![image](https://user-images.githubusercontent.com/75235402/173281422-3a001246-64cd-4bdd-b2ec-eaf0d3a2666a.png)
